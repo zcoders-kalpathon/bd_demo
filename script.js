@@ -154,7 +154,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Wishing you a day filled with happiness, love, and lots of wonderful moments. May all your dreams come true. Enjoy your special day!"],
+  strings: ["HAPPY BIRTHDAY HARSH SINGH!!!!,  Wishing you a day filled with happiness, love, and lots of wonderful moments. May all your dreams come true. Enjoy your special day!"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
@@ -169,7 +169,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["Terimakasih."],
+  strings: ["today is birthday of harsh singh."],
   startDelay: 2000,
   speed: 150,
   loop: false,
